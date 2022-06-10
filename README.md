@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer and desginer from Vietnam </h3>
 
-- ✍ I'm a student of: [FPT University, Hanoi]([https://hcmute.edu.vn](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
+- ✍ I'm a student of: [FPT University, Hanoi]([https://daihoc.fpt.edu.vn/tag/fptu/](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
 
 - 🌱 I’m currently learning **Front-end and basic Back-end** and working **Thudo Multimedia** in Designer/Editor.
 
