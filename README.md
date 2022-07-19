@@ -2,15 +2,15 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer and desginer from Vietnam </h3>
 
-- 👀 I’m interested in technology and people culture in Vietnam
+- 👀 I’m interested in technology and people culture in Vietnam.
 
 - ✍ I'm a student of: [FPT University, Hanoi]([https://daihoc.fpt.edu.vn/tag/fptu/](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
 
-- 🌱 I’m currently learning **Front-end and basic Back-end**
+- 🌱 I’m currently learning **Front-end and basic Back-end**.
 
-- 💬 Ask me about IT, GD, software, how to work better
+- 💬 Ask me about IT, GD, software, how to work better.
 
-- ⚡ Fun fact: I like learning forever because I keep learning is addicted, i like my past it doesn't really good but i hope i could be better than yesterday
+- ⚡ Fun fact: I like learning forever because I keep learning is addicted, i like my past it doesn't really good but i hope i could be better than yesterday.
 
 
 ## 📫 How to reach me:
