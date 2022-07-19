@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [FPT University, Hanoi]([https://daihoc.fpt.edu.vn/tag/fptu/](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
 
-- 🌱 I’m currently learning **Front-end and basic Back-end** and working **Thudo Multimedia** in Designer/Editor.
+- 🌱 I’m currently learning **Front-end and basic Back-end**
 
 
 ## 📫 How to reach me:
