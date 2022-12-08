@@ -14,7 +14,7 @@
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/498819334504710165)](https://discord.com/users/498819334504710165)
+[![Discord Presence](https://lanyard.cnrad.dev/api/498819334504710165theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/498819334504710165)
 
 ## 📫 How to reach me:
 
