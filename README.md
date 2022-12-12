@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/24kblossom" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.instagram.com/haitranxhani" alt="Instagram">
+  <a href="https://www.instagram.com/haniwasmistake" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   <a href="https://www.behance.net/sogoodtobebad" alt="Behance">
