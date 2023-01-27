@@ -44,7 +44,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/62583627/215037994-d55d2788-8911-4eba-970c-a92b8586f8d4.png"/>
+  <img src="https://user-images.githubusercontent.com/62583627/215038210-c1dcad76-7a8a-4c0a-90d9-e544c8c8ecb8.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
