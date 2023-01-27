@@ -43,7 +43,17 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/62583627/215037994-d55d2788-8911-4eba-970c-a92b8586f8d4.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -61,7 +71,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanicsgo&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="hanicsgo" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=hanicsgo&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="hanicsgo" width="100%"/>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanicsgo&&theme=tokyonight" alt="hanicsgo"/></p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanicsgo&show_icons=true&locale=en&theme=tokyonight" alt="hanicsgo"/></p>
     </td>
     <td>
       <p align="center"> 
