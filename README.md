@@ -21,10 +21,10 @@
 [![Join the chat at https://gitter.im/haniwfriends/haniwfriends](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/haniwfriends/haniwfriends?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://www.facebook.com/24kblossom" alt="Facebook">
+  <a href="https://www.facebook.com/hanifancy" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.instagram.com/haniwasmistake" alt="Instagram">
+  <a href="https://www.instagram.com/kophaihaitran" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   <a href="https://www.behance.net/sogoodtobebad" alt="Behance">
