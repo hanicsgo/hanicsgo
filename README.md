@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: I like learning forever because I keep learning is addicted, i like my past it doesn't really good but i hope i could be better than yesterday.
 
-## Discord
+## Discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/498819334504710165)](https://discord.com/users/498819334504710165)
 
