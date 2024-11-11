@@ -4,13 +4,9 @@
 
 - 👀 I’m interested in technology and people culture in Vietnam.
 
-- ✍ I'm a student of: [FPT University, Hanoi]([https://daihoc.fpt.edu.vn/tag/fptu/](https://daihoc.fpt.edu.vn/tag/fptu/)) (FPTU).
-
 - 🌱 I’m currently learning **Front-end and basic Back-end**.
 
 - 💬 Ask me about IT, GD, software, how to work better.
-
-- ⚡ Fun fact: I like learning forever because I keep learning is addicted, i like my past it doesn't really good but i hope i could be better than yesterday.
 
 ## Discord:
 
