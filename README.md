@@ -8,13 +8,13 @@
 
 - 💬 Ask me about IT, GD, software, how to work better.
 
+<h3 align="center">Now i dont want to code anymore :( </h3>
+
 ## Discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/498819334504710165)](https://discord.com/users/498819334504710165)
 
 ## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/haniwfriends/haniwfriends](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/haniwfriends/haniwfriends?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://www.facebook.com/hanifancy" alt="Facebook">
@@ -23,25 +23,16 @@
   <a href="https://www.instagram.com/kophaihaitran" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  <a href="https://www.behance.net/sogoodtobebad" alt="Behance">
-    <img src="https://img.icons8.com/fluent/48/000000/behance.png"/>
-  </a>
   <a href="https://github.com/hanicsgo" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCGTbKB8V3xL0P9k5RgtVa6w" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:haigtasan@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Skills:
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -59,9 +50,6 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
